@@ -30,9 +30,4 @@ function alerta(){
 // TENTAR COLOCAR AQUELE TEXTO PRA FORA DA CAIXA PRETA
 
 // FAZER A VERIFICAÇÃO DA SENHA, tanto de char quanto pra ver se a segunda esta igual a outra//
-function PasswordValidation(field){
-    password = field.value.PasswordValidation(0, field.value.PasswordValidation(20))
-
-    if ((pass.length >= 1 )&&
-        ()){}
-}
+//
